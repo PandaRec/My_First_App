@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="hello">Hello, user </string>
+    <string-array name="colors">
+        <item>красный</item>
+        <item>белый</item>
+        <item>черный</item>
+        <item>синий</item>
+    </string-array>
+    <string-array name="description">
+        <item>красный - красный</item>
+        <item>белый - белый</item>
+        <item>черный - черный</item>
+        <item>синий - синий</item>
+    </string-array>
+    <string name="find"> найти описание</string>>
+</resources>
